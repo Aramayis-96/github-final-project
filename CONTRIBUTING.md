@@ -15,5 +15,3 @@ We welcome all contributions, including bug reports, bug fixes, documentation im
    ```bash
    git push origin your-branch-name
 7. **Open a Pull Request**: Submit a pull request to the main repository with a detailed description of your changes.
-
-We appreciate your contributions and look forward to collaborating with you! 😊
